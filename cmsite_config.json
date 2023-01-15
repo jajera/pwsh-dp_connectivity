@@ -1,0 +1,7 @@
+{
+    "site": {
+        "name": "Primary Site 1",
+        "code": "P01",
+        "server": "SCCMSVR01.FABRIKAM.LOCAL"
+    }
+}
